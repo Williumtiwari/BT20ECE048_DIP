@@ -1,7 +1,7 @@
 clc;
 clear all;
 close all;
-%orginal = imread('img.jpg');
+%orginal = imread('Hist_Eq.png');
 I=imread('img.jpg');
 
 R=I;
